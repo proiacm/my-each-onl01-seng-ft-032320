@@ -3,5 +3,5 @@ def my_each(numbers) # put argument(s) here
  numbers do |num|
    puts "What am I doing?"
 end
-number
+numbers
 end
