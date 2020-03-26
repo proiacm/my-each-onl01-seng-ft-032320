@@ -6,6 +6,7 @@ def my_each(numbers) # put argument(s) here
     yield numbers[i]
     i = i +1
   end
+end  
 numbers
 
 end
